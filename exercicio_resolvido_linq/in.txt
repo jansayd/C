@@ -1,0 +1,8 @@
+TV,1900.00
+Radio,350.00
+Tablet,800.00
+Celular,900.00
+Computer,2500.00
+Printer,600.00
+DVD,15.00
+SmartWatch,350.00
